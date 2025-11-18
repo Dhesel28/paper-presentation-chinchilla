@@ -338,7 +338,7 @@ ___
 
 ## 1. Paradigm Shift: From "Bigger" to "Balanced"
 
-Before Chinchilla, the AI industry followed a clear trajectory: GPT-3 (175B) → Gopher (280B) → MT-NLG (530B), with training data stagnant at ~300B tokens. The mantra was "scale is all you need." After Chinchilla, the focus shifted to balanced scaling of both model size AND data, resulting in 4× inference cost reduction (~$3-5M/year savings for services handling 1B queries/day).
+Before Chinchilla, the AI industry followed a clear trajectory: GPT-3 (175B) → Gopher (280B) → MT-NLG (530B), with training data stagnant at ~ 300B tokens. The mantra was "scale is all you need." After Chinchilla, the focus shifted to balanced scaling of both model size AND data, resulting in 4× inference cost reduction (~ $3-5M/year savings for services handling 1B queries/day).
 
 ## 2. Inspired the Open-Source Movement
 
